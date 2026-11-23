@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Fasada — rytm i geometria</title><desc id="desc">Koncepcyjna ilustracja architektury w szarościach i czerwieni, nie przedstawia siedziby Estimer.</desc>
+  <defs><pattern id="windows" width="90" height="91" patternUnits="userSpaceOnUse"><rect x="20" y="20" width="44" height="49" fill="#242424"/><path d="M42 20v49" stroke="#41413d" stroke-width="1"/></pattern><pattern id="side" width="42" height="91" patternUnits="userSpaceOnUse"><path d="M9 20v49" stroke="#747570" stroke-width="9"/></pattern></defs>
+  <rect width="600" height="720" fill="#e7e7e2"/>
+  <path d="M0 130 600 10v710H0Z" fill="#deded7"/>
+  <path d="M76 155 437 202v518H76Z" fill="#f7f7f4"/>
+  <path d="m437 202 89-53v571h-89Z" fill="#a6a79e"/>
+  <path d="m76 155 95-59 355 53-89 53Z" fill="#fff"/>
+  <path d="M94 210h320v510H94Z" fill="url(#windows)"/>
+  <path d="M459 208h48v512h-48Z" fill="url(#side)"/>
+  <rect x="200" y="384" width="44" height="49" fill="#d92323"/>
+  <path d="M222 384v49" stroke="#f58880" stroke-width="1"/>
+  <path d="m0 625 600-103v198H0Z" fill="#b8b9af"/>
+  <path d="m0 661 600-103v162H0Z" fill="#a9aba1"/>
+  <path d="M35 593h525" stroke="#d92323" stroke-width="2"/>
+  <circle cx="35" cy="593" r="5" fill="#d92323"/>
+  <path d="M560 583v20" stroke="#d92323" stroke-width="2"/>
+  <path d="M76 155v23m361 24v23" stroke="#242424" stroke-width="1"/>
+</svg>
