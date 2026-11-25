@@ -268,7 +268,6 @@ h2 { font-size: clamp(34px, 3.3vw, 48px); }
 .faq summary::marker { color: var(--red); }
 .faq summary:hover { color: var(--red); }
 .faq summary:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
-.faq details[open] summary { font-weight: 600; }
 .faq details > p { max-width: none; padding: 0 5px 24px; color: var(--muted); font-size: 16px; text-align: justify; hyphens: auto; }
 .faq-contact { margin-top: 22px; }
 @supports (interpolate-size: allow-keywords) and selector(details::details-content) {
